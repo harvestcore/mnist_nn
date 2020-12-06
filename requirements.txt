@@ -1,0 +1,6 @@
+python-mnist==0.7
+tensorflow==2.3.1
+numpy==1.18.5
+sklearn==0.0
+Keras==2.4.3
+Keras-Preprocessing==1.1.2
