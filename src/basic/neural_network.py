@@ -1,9 +1,6 @@
 import numpy as np
 import time
 
-from tensorflow.keras.datasets import mnist
-
-from utils import load_datasets
 import activation_functions as af
 from activation_functions import ACTIVATION_FUNCTIONS
 
